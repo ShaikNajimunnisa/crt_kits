@@ -1,0 +1,2 @@
+price=list(map(int,input("Enter the  expenses for 7 days: ").split()))
+print(f"day 1: {price[0]} | day 2: {price[1]} | day 3: {price[2]} | day 4: {price[3]} | day 5: {price[4]} | day 6: {price[5]} | day 7: {price[6]}")

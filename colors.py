@@ -1,0 +1,12 @@
+def print_colors():
+    print("Red")
+    print("Green")
+    print("Blue")
+    print("Yellow")
+print_colors()
+print_colors()
+print_colors()
+print_colors()
+print_colors()
+print_colors()
+print_colors()
